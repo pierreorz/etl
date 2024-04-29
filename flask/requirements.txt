@@ -1,0 +1,10 @@
+flask
+flask-restful
+flask_sqlalchemy
+flask_script
+flask_migrate
+flask_serialize
+apscheduler
+requests
+gunicorn
+psycopg2
